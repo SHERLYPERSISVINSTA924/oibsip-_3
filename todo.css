@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #130102;
+}
+
+.todo-container {
+    text-align: center;
+}
+
+.task-section {
+    margin-top: 20px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
